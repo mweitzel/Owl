@@ -1,0 +1,15 @@
+GEM
+  specs:
+    macaddr (1.6.1)
+      systemu (~> 2.5.0)
+    ruby-growl (4.0)
+      uuid (~> 2.3, >= 2.3.5)
+    systemu (2.5.2)
+    uuid (2.3.5)
+      macaddr (~> 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby-growl
